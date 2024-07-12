@@ -11,3 +11,7 @@
 - **마크다운 형식**으로 작성하되, ......
 
 # 각 폴더 마다 가지는 과목이 있으며, 하위 폴더로 챕터를 나눌 계획 
+
+## PYTHON 
+
+- [DAY01](https://github.com/fs-isaac/TIL/tree/master/PYTHON)
